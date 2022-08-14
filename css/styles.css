@@ -78,17 +78,21 @@ a:hover {
   height: 50%;
 }
 .myname {
-  margin-top: 15%;
+  padding-top: 15%;
   line-height: 2;
+  width:100%
   margin: 0 auto 0 auto;
   font-size: 2.5rem;
   color: #fff;
+  text-align:center;
 }
 .occupation {
+  text-align:center;
   line-height: 2;
   font-size: 1.5rem;
   color: #fff;
   font-weight: normal;
+  width:100%
 }
 .profile {
   color: #66bfbf;
