@@ -252,16 +252,21 @@ a:hover {
   .myname {
     margin-top: 15%;
     margin-bottom: 12%;
-    width: 30%;
+    width: 100%;
     margin: 0 auto 0 auto;
     font-size: 1.3rem;
     color: #fff;
     line-height: 2;
+    align-items:center;
+    text-align:center;
   }
   .occupation {
     margin-bottom: 12%;
     font-size: 1.2rem;
     line-height: 2;
+    width: 100%;
+    align-items:center;
+    text-align:center;
   }
   .navbar {
     padding: 1.6em;
