@@ -232,6 +232,14 @@ a:hover {
     text-align: center;
     display:none;
   }
+  .datascienceimage{
+  width:50%;}
+    .machinelearningimage{
+  width:50%;}
+    .softwareimage{
+  width:50%;}
+    .machinelearningimage{
+  width:50%;}
     .testimonial-image {
     border-radius: 100%;
     margin-right: 2%;
