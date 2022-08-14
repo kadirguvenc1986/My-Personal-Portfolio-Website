@@ -233,13 +233,17 @@ a:hover {
     display:none;
   }
   .datascienceimage{
-  width:50%;}
+  width:100px;
+  height:100px;}
     .machinelearningimage{
-  width:50%;}
+    width:100px;
+  height:100px;}
     .softwareimage{
-  width:50%;}
+    width:100px;
+  height:100px;}
     .machinelearningimage{
-  width:50%;}
+   width:100px;
+  height:100px;}
     .testimonial-image {
     border-radius: 100%;
     margin-right: 2%;
