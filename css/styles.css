@@ -226,31 +226,30 @@ a:hover {
   .upper-cloud {
     align-items: center;
     text-align: center;
-    width: 100px;
-    height: 100px;
-    margin-left: 0px;
-    padding-left: 0px;
+    display:none;
   }
   .contactbutton {
     width: 100px;
     font-size: 0.8rem;
   }
   .lower-cloud {
-    width: 100px;
-    height: 100px;
-    margin-left: 0;
+   align-items: center;
+    text-align: center;
+    display:none;
   }
   .myname {
-    margin-top: 0;
+    margin-top: 10%;
     margin-bottom: 12%;
     width: 30%;
     margin: 0 auto 0 auto;
     font-size: 1.3rem;
     color: #fff;
+    line-height: 2;
   }
   .occupation {
     margin-bottom: 12%;
     font-size: 1.2rem;
+    line-height: 2;
   }
   .navbar {
     padding: 1.6em;
