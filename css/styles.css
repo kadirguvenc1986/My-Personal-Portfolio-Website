@@ -60,7 +60,6 @@ a:hover {
 }
 .upper-cloud {
   position: relative;
-
   left: 20%;
   width: 200px;
   height: 200px;
@@ -70,7 +69,7 @@ a:hover {
   position: absolute;
   width: 200px;
   height: 200px;
-  bottom: 40%;
+  bottom: 30%;
   left: 10%;
 }
 .mountain {
