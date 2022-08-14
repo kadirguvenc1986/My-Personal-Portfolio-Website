@@ -280,6 +280,7 @@ a:hover {
   #toggle-nav {
     display: block;
     color: white;
+    margin-right:5%;
   }
 }
 .navbar {
