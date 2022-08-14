@@ -223,6 +223,31 @@ a:hover {
 }
 
 @media all and (max-width: 500px) {
+  .upper-cloud {
+    align-items: center;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin-left: 0px;
+    padding-left: 0px;
+  }
+  .lower-cloud {
+    width: 100px;
+    height: 100px;
+    margin-left: 0;
+  }
+  .myname {
+    margin-top: 0;
+    margin-bottom: 12%;
+    width: 30%;
+    margin: 0 auto 0 auto;
+    font-size: 1.3rem;
+    color: #fff;
+  }
+  .occupation {
+    margin-bottom: 12%;
+    font-size: 1.2rem;
+  }
   .navbar {
     padding: 1.6em;
   }
