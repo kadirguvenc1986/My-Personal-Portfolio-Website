@@ -232,19 +232,7 @@ a:hover {
     text-align: center;
     display:none;
   }
-  .datascienceimage{
-  width:50px;
-  height:auto;}
-    .machinelearningimage{
-    width:50px;
-  height:auto;}
-    .softwareimage{
-   width:50px;
-  height:auto;}
-    .machinelearningimage{
-  width:50px;
-  height:auto;}
-    .testimonial-image {
+  .testimonial-image {
     border-radius: 100%;
     margin-right: 2%;
     width: 200px;
