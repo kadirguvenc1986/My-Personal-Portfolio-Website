@@ -228,6 +228,14 @@ a:hover {
     text-align: center;
     display:none;
   }
+    .testimonial-image {
+    border-radius: 100%;
+    margin-right: 2%;
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    text-align: center;
+  }
   .contactbutton {
     width: 100px;
     font-size: 0.8rem;
