@@ -227,6 +227,14 @@ a:hover {
 }
 
 @media all and (max-width: 800px) {
+  .text-about {
+  text-align: justify;
+  width: 90%;
+  margin: auto auto 100px auto;
+  color: #fff;
+  line-height: 1.6;
+}
+  .deeplearningimage{width:10%;height:10%}
   .upper-cloud {
     align-items: center;
     text-align: center;
