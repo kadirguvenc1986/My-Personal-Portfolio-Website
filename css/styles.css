@@ -78,7 +78,7 @@ a:hover {
   height: 50%;
 }
 .myname {
-  padding-top: 15%;
+  padding-top: 5%;
   line-height: 2;
   width:100%
   margin: 0 auto 0 auto;
@@ -250,7 +250,7 @@ a:hover {
     display:none;
   }
   .myname {
-    margin-top: 15%;
+    margin-top: 5%;
     margin-bottom: 12%;
     width: 100%;
     margin: 0 auto 0 auto;
@@ -280,7 +280,8 @@ a:hover {
   #toggle-nav {
     display: block;
     color: white;
-    margin-right:5%;
+    margin-right:3%;
+    padding-right:3%;
   }
 }
 .navbar {
