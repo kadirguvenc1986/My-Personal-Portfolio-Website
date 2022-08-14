@@ -231,6 +231,10 @@ a:hover {
     margin-left: 0px;
     padding-left: 0px;
   }
+  .contactbutton {
+    width: 100px;
+    font-size: 0.8rem;
+  }
   .lower-cloud {
     width: 100px;
     height: 100px;
